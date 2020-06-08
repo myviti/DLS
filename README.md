@@ -1,4 +1,4 @@
-# DLS
+# DLS - Venkateshkumar M
 Deep-learning sessions
 
 Assignment -1 
